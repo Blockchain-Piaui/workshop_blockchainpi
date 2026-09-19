@@ -1,0 +1,22 @@
+# Rust
+target/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+
+# Env files
+.env*
+!.env.example
+
+# OS
+.DS_Store
+
+# Debug
+npm-debug.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
